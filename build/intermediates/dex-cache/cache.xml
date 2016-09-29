@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_d42e41036a21b643b7bce365dbe8ef293b14c21d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_55c0ce449836d5ef6b096e336a1602592eca813b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.6.2/31fb4bf50b62daadee5e94f39679812ad8a9ae00/socket.io-client-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31fb4bf50b62daadee5e94f39679812ad8a9ae00">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.6.2_1484e996cd3b214178417a324f614f995dd169d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_3ff90031fcdf261d4351da7b768f80474736a29d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_edc700428413d39dbceda5f8eba3f11bd66fb687/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_a7685f7c48f0b178305a1b0656b45573393af9f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_dd2bc3199bf6a283eb8aa69317fd1cbc5d2b74f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ea922db481e1c10c6cc8428673061f2ed21021ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_85460dc1713ea070e1a17f61117f368fa05ca21c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_19146555c24acd4b8d307aa7c5051bee566ccdf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f926f70973de1116321fa73c0c3a2e7d44dc3bbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b12c1e5d569328a910991749fbf30a745314ff1d">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e3a3fcb6a0cc1968fb2b7aabff9fedfed9ed03a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c7823611756bff920d8a3eabc9b06c31d96f0612">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_596fa87967fe7b5f7966316c33220189d8a2d9f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-2.5.0_da6dfc94ee5c9a370af03bed0d81f39aff349bb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_dc84c6083f4d5ec0138842332bd089a42fe14d2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_ad5192a39e7924a6fcc83f0c55e3486cc9cd57ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_5c4f7b710de15bfe76fdfaba4359d3a44ef617f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_593b16b2e20aa48dca404968e2b1e5b4722b48d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_345d380885e29f0a912f26a361bd1e65362df3e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6b202e7d1e5b1d0e297e8c93dec441007ec1b11c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_28905e2070e684f9580b9e534f9fe0167e4feb70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.6.2/939f90d47c800626d5b0a4e7f89f98b3dde61dc6/engine.io-client-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="939f90d47c800626d5b0a4e7f89f98b3dde61dc6">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.6.2_3ea894417e0f113962c11c384b3af11e066cf8c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_ed091567c32747e1491673343d2d8f459dd87fcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2b884731e2d57ba54d9201e3fa7516cc36b0f995/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_a7685f7c48f0b178305a1b0656b45573393af9f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_d42e41036a21b643b7bce365dbe8ef293b14c21d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_109712015f65f5257e63d30a4265a9c9b49a4a9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_867f591a7e5f7297d3732cae1ab86104d141b7bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_85460dc1713ea070e1a17f61117f368fa05ca21c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_d90be73dd06a1e3261f1fbfa5fa97287904b091c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ea922db481e1c10c6cc8428673061f2ed21021ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_040c5a40d0db5284550f0a3926801f0cf2fd8c67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_44b6b8f6f70fc26709b63dea8103c34ac2e1072a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_ee25988942962833a8071acd708f481ba99530f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_ed19519a5cade9e98c2b3a3cb0639138f054260b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_9caf6dda55b8fd0536937117e9e33b244ae9049c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2b884731e2d57ba54d9201e3fa7516cc36b0f995/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_edc700428413d39dbceda5f8eba3f11bd66fb687/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_dc84c6083f4d5ec0138842332bd089a42fe14d2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_5c4f7b710de15bfe76fdfaba4359d3a44ef617f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_345d380885e29f0a912f26a361bd1e65362df3e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.6.2/939f90d47c800626d5b0a4e7f89f98b3dde61dc6/engine.io-client-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="939f90d47c800626d5b0a4e7f89f98b3dde61dc6">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.6.2_3ea894417e0f113962c11c384b3af11e066cf8c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6b202e7d1e5b1d0e297e8c93dec441007ec1b11c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_28905e2070e684f9580b9e534f9fe0167e4feb70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_867f591a7e5f7297d3732cae1ab86104d141b7bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_4e27852a9fef2842b29f2da898d1e5e1c656c376/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_d90be73dd06a1e3261f1fbfa5fa97287904b091c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d36ba243de28d4a973127b53fc16eaf3bdfe8815">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_596fa87967fe7b5f7966316c33220189d8a2d9f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_593b16b2e20aa48dca404968e2b1e5b4722b48d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_e040ddbcec56ef892db475215102331b9b1abbdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_040c5a40d0db5284550f0a3926801f0cf2fd8c67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f926f70973de1116321fa73c0c3a2e7d44dc3bbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_55c0ce449836d5ef6b096e336a1602592eca813b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_109712015f65f5257e63d30a4265a9c9b49a4a9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.6.2/31fb4bf50b62daadee5e94f39679812ad8a9ae00/socket.io-client-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="31fb4bf50b62daadee5e94f39679812ad8a9ae00">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.6.2_1484e996cd3b214178417a324f614f995dd169d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_19146555c24acd4b8d307aa7c5051bee566ccdf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_3ff90031fcdf261d4351da7b768f80474736a29d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_ed091567c32747e1491673343d2d8f459dd87fcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_ad5192a39e7924a6fcc83f0c55e3486cc9cd57ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a30bfc3e5879da6edbfa3231ac0b1d3989af59a7">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e3a3fcb6a0cc1968fb2b7aabff9fedfed9ed03a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_ed19519a5cade9e98c2b3a3cb0639138f054260b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_4e27852a9fef2842b29f2da898d1e5e1c656c376/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_ee25988942962833a8071acd708f481ba99530f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_9caf6dda55b8fd0536937117e9e33b244ae9049c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_44b6b8f6f70fc26709b63dea8103c34ac2e1072a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_e040ddbcec56ef892db475215102331b9b1abbdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-2.5.0_da6dfc94ee5c9a370af03bed0d81f39aff349bb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.vwo/mobile/0.3.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8c67759070f5677325596be5727ef1f144bb273">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.vwo-mobile-0.3.9_34388294c77687a1e0487c94df12d313071b8532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/abhishekbatra/cloned/VWOSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_dd2bc3199bf6a283eb8aa69317fd1cbc5d2b74f6/classes.dex" />
+    </item>
+
+</items>

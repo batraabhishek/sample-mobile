@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VWO Sample</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="desc_1">Its an easy to use AB testing tool that allows marketing professionals to create different versions of their websites and landing pages using a point-and-click editor (no HTML knowledge needed!) and then see which version produces maximum conversion rate or sales. Integrating our split testing software is dead-simple: copy-paste a code snippet in your website once and you are ready to go live!</string>
+    <string name="desc_2">Visual Website Optimizer is also a flexible multivariate testing software (full factorial methodology) and has number of additional tools like behavioral targeting, heatmaps, usability testing, etc. With 100+ features in Visual Website Optimizer, you can be sure that all your conversion rate optimization activities are covered by our product. Thousands of enterprises and small businesses are using our A/B testing software for landing page optimization, increasing website sales and improving conversion rates (see all case studies). Signup for a FREE 30 day trial today.</string>
+</resources>
